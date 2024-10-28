@@ -1,0 +1,10 @@
+Practice Project 1
+- Create a sign in and Login page
+Planning Phase
+    - Site structure
+        - Create a sign-in / sign-out pages
+        - user dash board
+        - admin dash board
+    - Coding Sanitis
+        - User athentication
+        - code cleaning
